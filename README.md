@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## 2. ER Diagram
-
+![nini](https://user-images.githubusercontent.com/107980297/211033888-abc087ce-31a2-45d0-8bb5-89810ee719ba.png)
 ## 3. 서비스 흐름도
-
+![서비스흐름도 자격증](https://user-images.githubusercontent.com/107980297/211034120-da215fe7-2583-4206-929d-93e306167e1b.jpg)
 ## 4. 구현
